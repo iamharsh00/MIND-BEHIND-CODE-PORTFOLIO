@@ -1,8 +1,3 @@
-# MIND-BEHIND-CODE-PORTFOLIO
-This is my personal portfolio website, highlighting my skills, projects, and achievements in full-stack development. Built with HTML, CSS, JavaScript, and React.js, it features a responsive design, project showcase, and a downloadable resume. Stay tuned for updates as I enhance its functionality with backend integration using Node.js
-
-
-
 # 🚀 Personal Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and achievements in full-stack development.
@@ -57,8 +52,7 @@ npm start
 
 ## 🤝 Connect with Me
 📧 Email: priyanshu7881@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+🔗 LinkedIn: [Harsh Singh](https://linkedin.com/in/harsh-singh-7881)  
 
 ---
 💡 *Feel free to fork, contribute, or suggest improvements!* 🚀
